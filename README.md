@@ -178,7 +178,7 @@ The complete analysis with detailed insights is available on Medium:
 ---
 
 ## Dashboard Preview
-![Dashboard](images/dashboard-overview.png)
+![Dashboard](images/Dashboar.png)
 
 ---
 
